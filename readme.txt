@@ -1,4 +1,4 @@
-![image alt](representative.png)
+![image alt](https://github.com/ysonline/QAmeetsPM/blob/e6abd00c003d0a917320e6030563bae8023079b3/representative.png)
 
 Code and executable for the paper Quantum Annealing Meets Partial Matching, EG, 2027 (submitted).
 
