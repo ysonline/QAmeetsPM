@@ -3,7 +3,7 @@ Code and executable for the paper Quantum Annealing Meets Partial Matching, EG, 
 ![Representative Image](representative.png)
 
 Executable command:
-PartialCorrespQAP.exe <sourceID> <targetID> <nInitialSourceSamples> <mInitialTargetSamples> <nDenseSamples> <qapEnergy> <nPathSamples> <qapSolver> <nSamplesPerSubregion> <nMaxC2FLevels> <fullMap>
+`PartialCorrespQAP.exe <sourceID> <targetID> <nInitialSourceSamples> <mInitialTargetSamples> <nDenseSamples> <qapEnergy> <nPathSamples> <qapSolver> <nSamplesPerSubregion> <nMaxC2FLevels> <fullMap>`
 
 Examples:
 PartialCorrespQAP.exe 100 101 10 5 -1 1 9 1 10 10 0 //horse complete-to-partial no dense C2F part (-1)
