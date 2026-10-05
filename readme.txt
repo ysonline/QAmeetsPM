@@ -1,3 +1,5 @@
+![Alt text](representative.png)
+
 Code and executable for the paper Quantum Annealing Meets Partial Matching, EG, 2027 (submitted).
 
 Executable command:
