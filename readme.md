@@ -1,4 +1,4 @@
-Code and executable for the paper Quantum Annealing Meets Partial Matching, EG, 2027 (submitted).
+Code and executable for the paper **Quantum Annealing Meets Partial Matching**, Eurographics, 2027 (submitted).
 
 ![Representative Image](representative.png)
 
