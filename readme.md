@@ -10,7 +10,7 @@ PartialCorrespQAP.exe 100 101 10 5 -1 1 9 1 10 10 0 //horse complete-to-partial 
 PartialCorrespQAP.exe 100 101 10 5 250 1 9 1 10 10 1 //horse complete-to-partial w/ dense C2F part and fullMap part (last 1)
 
 More Examples:
-see sampleRuns.png
+![More Exs](sampleruns.png)
 
 This folder also includes drop-in solver functions of our quantum-classical competitors QuCOOP and Q-Match as qucoop.h and qmatch.h, respectively. Our solver is qucoopmatch.h and mesh processing/coarse-to-fine stuff are mainly at Mesh.cpp and Correspondence.cpp.
 
