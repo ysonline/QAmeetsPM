@@ -6,8 +6,8 @@ Executable command:
 `PartialCorrespQAP.exe <sourceID> <targetID> <nInitialSourceSamples> <mInitialTargetSamples> <nDenseSamples> <qapEnergy> <nPathSamples> <qapSolver> <nSamplesPerSubregion> <nMaxC2FLevels> <fullMap>`
 
 Examples:
-PartialCorrespQAP.exe 100 101 10 5 -1 1 9 1 10 10 0 //horse complete-to-partial no dense C2F part (-1)
-PartialCorrespQAP.exe 100 101 10 5 250 1 9 1 10 10 1 //horse complete-to-partial w/ dense C2F part and fullMap part (last 1)
+PartialCorrespQAP.exe 100 101 10 5 -1 1 9 1 10 10 0 //horse complete-to-partial without the dense C2F part (-1)<br>
+PartialCorrespQAP.exe 100 101 10 5 250 1 9 1 10 10 1 //horse complete-to-partial w/ the dense C2F part and fullMap part (last 1)
 
 More Examples:
 ![More Exs](sampleRuns.png)
