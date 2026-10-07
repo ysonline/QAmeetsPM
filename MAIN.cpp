@@ -1,5 +1,5 @@
 //Author: ANONYMIZED
-//Paper: Quantum Annealing Meets Partial Matching, Eurographics 2027 (submitted)
+//Paper: ANONYMIZED (submitted)
 
 #define _CRT_SECURE_NO_WARNINGS //i won't use fopen_s, sprintf_s, etc; so, don't warn me
 
