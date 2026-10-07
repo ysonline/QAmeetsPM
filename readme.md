@@ -12,7 +12,7 @@ PartialCorrespQAP.exe 100 101 10 5 250 1 9 1 10 10 1 //horse complete-to-partial
 More Examples:
 ![More Exs](sampleRuns.png)
 
-This folder also includes drop-in solver functions of our quantum-classical competitors QuCOOP and Q-Match as qucoop.h and qmatch.h, respectively. Our solver is qucoopmatch.h and mesh processing/coarse-to-fine stuff are mainly at Mesh.cpp and Correspondence.cpp.
+This folder also includes drop-in solver functions of our quantum-classical competitors QGM, QuCOOP, and Q-Match as qgm.h, qucoop.h, and qmatch.h, respectively. Our solver is qucoopmatch.h and mesh processing/coarse-to-fine stuff are mainly at Mesh.cpp and Correspondence.cpp.
 
 QAPSolversDWave folder, on the other hand, provides DWave-ready python implementations (that could hav been tested due to their canceled policy on 1-minute-per month free access. Still valuable to be used as a references for those who have access.
 
