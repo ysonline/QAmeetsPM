@@ -1,4 +1,4 @@
-Official code and executable for the paper **Quantum Annealing Meets Partial Matching**, Eurographics, 2027 (submitted).
+Official code and executable for the paper **ANONYMIZED**, (submitted).
 
 ![Representative Image](representative.png)
 
@@ -19,4 +19,4 @@ QAPSolversDWave folder, on the other hand, provides DWave-ready python implement
 You may get visuals by defining #define GRAPHICS_STUFF in Mesh.h although this requires Coin3D installation (dll's provided).
 
 Please cite if you are using this package:
-Quantum Annealing Meets Partial Matching, EG, 2027 (submitted).
+ANONYMIZED, (submitted).
